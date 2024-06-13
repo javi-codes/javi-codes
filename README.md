@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Javi and I'm a Software Engineer from San Joaquin Valley in California.  My expertise is back-end development but I can also do front-end.</h2>
+<h2 align="left">Hey there, I'm Javier! 🚀</h2>
+
+###
+
+<p align="left">I'm a software engineer with a passion for all things tech, especially when it comes to back-end development with Node.js and Express. I love diving into databases, whether it's PostgreSQL, MySQL, or MS SQL Server, and I have a soft spot for NoSQL databases like MongoDB too. 📚💻<br><br>But wait, there's more! I'm not just a back-end wizard. I also enjoy crafting slick, interactive front-end experiences with React and Angular. Bringing ideas to life from the server to the screen is what I do best. 🎨✨<br><br>What really gets me excited is using technology to make a positive impact on the world. Whether it's a groundbreaking idea or a nifty tech solution, I'm all about creating something that can help us all live better. 🌍💡<br><br>Let's team up and build something awesome! 🚀🌟</p>
 
 ###
 
@@ -56,16 +60,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/javi-codes/javi-codes/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 

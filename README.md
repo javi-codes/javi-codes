@@ -1,4 +1,4 @@
-<h2 align="left">Hey there, I'm Javier! 🚀</h2>
+<h2 align="left">Hey there, I'm Javi! 🚀</h2>
 
 ###
 
